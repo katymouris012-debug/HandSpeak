@@ -1,9 +1,6 @@
-Flask==3.0.0
-flask-cors==4.0.0
-tensorflow==2.15.0
-numpy==1.26.4
-opencv-python-headless==4.8.1.78
-mediapipe==0.10.9
-protobuf==3.20.3
-gunicorn==21.2.0
-
+flask
+gunicorn
+tensorflow
+opencv-python-headless
+numpy
+pillow
